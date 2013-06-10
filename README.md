@@ -4,10 +4,10 @@ A collection of ligō logo artwork in raster and vector format
 
 ## ligō
 
-![ligō](https://raw.github.com/nibua-r/ligo-logos/master/ligo/ligo.png)
+![ligō](https://github.com/nibua-r/ligo-logos/raw/master/logo/ligo.png)
 
-* [PNG format (optimized)](https://raw.github.com/nibua-r/ligo-logos/master/ligo/ligo.png)
-* [SVGZ format](https://github.com/celluloid/celluloid-logos/blob/master/celluloid/celluloid.ai)
+* [PNG format (optimized)](https://github.com/nibua-r/ligo-logos/raw/master/logo/ligo.png)
+* [SVGZ format](https://github.com/nibua-r/ligo-logos/raw/master/logo/ligo.svgz)
 
 ## License
 
